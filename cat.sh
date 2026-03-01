@@ -1,0 +1,12 @@
+echo CMakeLists.txt
+cat CMakeLists.txt
+echo lv_conf.h
+cat lv_conf.h
+echo src/app.c
+cat src/app.c
+echo src/main.c
+cat src/main.c
+#echo src/fonts/dejavu_24_ru.c
+#cat src/fonts/dejavu_24_ru.c
+#echo src/fonts/dejavu_28_ru.c
+#cat src/fonts/dejavu_28_ru.c
